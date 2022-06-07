@@ -7,7 +7,8 @@ D -> DELETE
 
 ## Instalar primeiro 
 
-npm init 
+npm init
+
 npm install express
 
 ## Iniciando o servidor
